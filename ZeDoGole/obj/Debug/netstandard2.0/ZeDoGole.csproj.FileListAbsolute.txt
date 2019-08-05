@@ -1,0 +1,12 @@
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\bin\Debug\netstandard2.0\ZeDoGole.deps.json
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\bin\Debug\netstandard2.0\ZeDoGole.dll
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\bin\Debug\netstandard2.0\ZeDoGole.pdb
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\ZeDoGole.csprojAssemblyReference.cache
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\ZeDoGole.csproj.CoreCompileInputs.cache
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\ZeDoGole.AssemblyInfoInputs.cache
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\ZeDoGole.AssemblyInfo.cs
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\ZeDoGole.dll
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\ZeDoGole.pdb
+C:\Users\binhara.DESKTOP-270J9VH\Desktop\mi app kakarotto\ZeDoGole\ZeDoGole\ZeDoGole\obj\Debug\netstandard2.0\XamlC.stamp
